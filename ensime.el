@@ -55,7 +55,7 @@
 (require 'ensime-vars)
 (require 'ensime-config)
 (require 'ensime-auto-complete)
-(require 'ensime-sbt)
+(require 'sbt-mode)
 (require 'ensime-inf)
 (require 'ensime-stacktrace)
 (require 'ensime-debug)
